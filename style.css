@@ -1,0 +1,37 @@
+body{
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+    background: linear-gradient(#44C4E6,#66DEFF,#E69345);
+
+}
+.header_div{
+    background-color: #E66E50;
+    
+}
+.header_div p{
+font-family:'Times New Roman', Times, serif;
+color: bisque;
+letter-spacing: 2px;
+font-size: medium;
+font-weight: bold;
+}
+hr{
+    border-color:#99530F ;
+ width: 100%;   
+ border-width: 3px;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 230px;
+    font-weight: 300;
+    letter-spacing: 5px;
+}
+.cp-foot{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size:50px;
+    background-color: #99771F;
+    color:#CADEE3;
+    text-shadow:5px 5px 2px whitesmoke;
+}
